@@ -1,0 +1,8 @@
+Kathryn Xing
+2020.Jan.22
+
+This repo contains my soln to AccessAlly 2021 Summer coding challenge.
+
+Note about Q2: Python3.6 pandas library is used
+
+Note about .sh files: executing .sh with the .py script as argument will test all given input/output. (Passed all given tests)
